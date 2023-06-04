@@ -1,0 +1,15 @@
+[
+  {
+    "address": "0xd3f1Da62CAFB7E7BC6531FF1ceF6F414291F03D3",
+    "symbol": "DBL",
+    "min": 19.5,
+    "max": 20
+  },
+
+  {
+    "address": "0x289ba1701C2F088cf0faf8B3705246331cB8A839",
+    "symbol": "LPT",
+    "min": 0.168,
+    "max": 0.169
+  }
+]

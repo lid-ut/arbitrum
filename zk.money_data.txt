@@ -1,0 +1,7 @@
+Store the following information somewhere safe but accessible:
+
+  Aztec Account Address: aztec:0x015a212314575df5a90210eafc787fd8c33ee90e4d22ec153131671c4070dbcc1a2f2ccfb7935137e8d57034f31cfa0d4c9d4a7d66cc45abc3ecfb16a4fc92ee
+
+  Aztec Account Generator Address: eth:0x27f60c4B06C8D6e9f9D04897E58F3349dD93277a
+
+  Spending Key Generator Address: eth:0x27f60c4B06C8D6e9f9D04897E58F3349dD93277a
